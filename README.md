@@ -1,4 +1,4 @@
-# A dynamic Tic Tac Toe application based on React
+# A dynamic Tic Tac Toe application developed with React and Redux
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
