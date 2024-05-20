@@ -8,7 +8,7 @@ This is a Tic Tac Toe game developed with React and Redux. In this the board siz
 
 ## How to change board Size
 
-- Jump into 'tic-tac-toe/src/Helpers.js' and change the variable 'boardSize' to your desired board size. Once done re-run the application and you will have the board size updated.
+- Jump into `tic-tac-toe/src/Helpers.js` and change the variable `boardSize` to your desired board size. Once done re-run the application and you will have the board size updated.
 
 ### `npm start`
 
