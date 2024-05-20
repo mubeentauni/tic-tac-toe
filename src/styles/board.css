@@ -1,0 +1,8 @@
+.board {
+    display: block;
+    padding: 40px;
+    border: 1px solid black;
+  }
+  .board-row{
+    height: 100px;
+  }
